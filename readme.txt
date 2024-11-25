@@ -4,7 +4,7 @@ README
 Overview: This repository contains the implementation of the AR Fourier method along with comparisons to previously established methods. The comparison was done using both simulated and empirical datasets. We systematically compared AR Fourier to previously established techniques by generating simulated datasets with varying phase diffusion and noise coefficients. We also compared the method to other methods using a real word dataset from the visual cortex of an awake macaque monkey while they're performing a detection task. 
 
 
-Folder structure:
+Folder structure: 
       - code/
            - ARFourier_implement/
                 - AR_Fourier_method.m: This repository provides an implementation of the AR Fourier method on simulated data. The code is shared as a standalone module for easy integration and adaptation by 
