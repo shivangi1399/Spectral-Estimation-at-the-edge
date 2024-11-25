@@ -7,8 +7,7 @@ Overview: This repository contains the implementation of the AR Fourier method a
 Folder structure: 
       - code/
            - ARFourier_implement/
-                - AR_Fourier_method.m: This repository provides an implementation of the AR Fourier method on simulated data. The code is shared as a standalone module for easy integration and adaptation by 
-                  others who wish to apply the method in their work.
+                - AR_Fourier_method.m: This repository provides an implementation of the AR Fourier method on simulated data. The code is shared as a standalone module for easy integration and adaptation by others who wish to apply the method in their work.
                 - functions/
                       - Contains functions required to run the AR_Fourier_method.m file
                       - AR_fourier_imp.m: Contains paths for FieldTrip and SLURM for parallel computing. This file may need modification to run on a different setup.
